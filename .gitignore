@@ -3,3 +3,6 @@
 .idea/
 shared/wttd
 # Created by .ignore support plugin (hsz.mobi)
+
+
+git config --global http.sslcainfo "/c/Program Files (x86)/Git/bin/curl-ca-bundle.crt"
